@@ -23,7 +23,7 @@
     "Ori and the Will of the Wisps",
     "God of War (2018)"
   ],
-  "lastUpdated": 1766305176315,
+  "lastUpdated": 1766305487636,
   "rejections": [
     {
       "source": "Subnautica",
@@ -55,6 +55,10 @@
     {
       "source": "Uyuyan Tanrı",
       "hook": "Kadimlerin Yazıtları, evrenin zamanın başlangıcından çok önce var olan uykudaki bir varlıktan bahseder. Fısıltılar onun rüyalarının gerçekliği şekillendirdiğini, ancak uyanışının tüm yaratılışı yok edebileceğini öne sürer."
+    },
+    {
+      "source": "Starfall Chronicles",
+      "hook": "Bir zamanlar gökyüzünde parlayan, şimdi ise yeryüzüne düşmüş ve her şeyi zehirleyen bir Yıldız Kalbi'nin lanetiyle yaşayan bir dünya. Onu geri yerine koymak mı, yoksa gücünü ele geçirmek mi daha büyük bir felakete yol açacak?"
     }
   ]
 }
