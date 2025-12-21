@@ -23,7 +23,7 @@
     "Ori and the Will of the Wisps",
     "God of War (2018)"
   ],
-  "lastUpdated": 1766305157439,
+  "lastUpdated": 1766305176315,
   "rejections": [
     {
       "source": "Subnautica",
@@ -51,6 +51,10 @@
     {
       "source": "Gökyüzü Şehri",
       "hook": "Bir zamanlar gökyüzünde süzülen şehir Aethelburg, düşüşünden bin yıl sonra unutulmuş bir fısıltıdan ibaret. Ancak efsaneler, şehrin kalbinde yatan kristalin hâlâ uyandırılabilecek kadim bir gücü barındırdığını anlatıyor."
+    },
+    {
+      "source": "Uyuyan Tanrı",
+      "hook": "Kadimlerin Yazıtları, evrenin zamanın başlangıcından çok önce var olan uykudaki bir varlıktan bahseder. Fısıltılar onun rüyalarının gerçekliği şekillendirdiğini, ancak uyanışının tüm yaratılışı yok edebileceğini öne sürer."
     }
   ]
 }
