@@ -23,7 +23,7 @@
     "Ori and the Will of the Wisps",
     "God of War (2018)"
   ],
-  "lastUpdated": 1766300735920,
+  "lastUpdated": 1766305157439,
   "rejections": [
     {
       "source": "Subnautica",
@@ -44,6 +44,13 @@
       "source": "The Witcher 3: Wild Hunt",
       "hook": "Kürelerin Birleşimi, dünyaları birbirine çarpıp canavarları ve sihri bu topraklara saçtığında, insanlık hayatta kalmak için kendi canavarlarını yarattı. Şimdi, o canavarların sonuncularından biri, bir kehanetin peşinde diyar diyar gezerken, asıl canavarlığın hançerlerde ve tahtlarda gizlendiğini öğreniyor.",
       "timestamp": 1766300735920
+    }
+  ],
+  "likes": [],
+  "dislikes": [
+    {
+      "source": "Gökyüzü Şehri",
+      "hook": "Bir zamanlar gökyüzünde süzülen şehir Aethelburg, düşüşünden bin yıl sonra unutulmuş bir fısıltıdan ibaret. Ancak efsaneler, şehrin kalbinde yatan kristalin hâlâ uyandırılabilecek kadim bir gücü barındırdığını anlatıyor."
     }
   ]
 }
