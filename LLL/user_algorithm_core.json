@@ -1,5 +1,10 @@
 {
-  "likes": [],
+  "likes": [
+    {
+      "source": "Grand Theft Auto V",
+      "hook": "Los Santos'un güneşli ama yozlaşmış sokaklarında, üç farklı suçlunun kaderleri kesişir. Büyük soygunlar, bitmek bilmeyen ihanetler arasında, Amerikan rüyasının karanlık yüzü tüm çıplaklığıyla gözler önüne serilir."
+    }
+  ],
   "dislikes": [
     {
       "source": "Elden Ring",
@@ -8,8 +13,20 @@
     {
       "source": "God of War",
       "hook": "Kratos'un geçmişiyle hesaplaşması ve yeni bir hayat kurma çabası, onu tanrısal güçlerin ötesinde bir baba figürü olmaya zorlar. Dokuz diyarın soğuk kucağında, baba-oğul bağının kudretli sırrı, hem yıkımı hem de yeniden doğuşu fısıldar."
+    },
+    {
+      "source": "Elden Ring",
+      "hook": "Altın Düzen paramparça oldu, kudretli Erdtree soldu ve Lands Between'i sonsuz bir ölüm döngüsü sardı. Tarnished olarak, yarı-tanrı shardbearer'ları yenmeli, Elden Lord unvanını geri almalı ve bu çürüyen topraklara yeniden umut getirmelisin."
+    },
+    {
+      "source": "The Last of Us",
+      "hook": "Salgın sonrası dünyada hayatta kalma mücadelesi, insanlığın en karanlık ve en aydınlık yüzlerini ortaya çıkarır. Küçük bir kızın taşıdığı umut, acımasız bir dünyanın ortasında, beklenmedik bir bağın en güçlü kalkanı haline gelir."
+    },
+    {
+      "source": "The Witcher 3: Wild Hunt",
+      "hook": "Kuzey Krallıkları'nı saran savaşın ve kadim kehanetlerin ortasında, ak saçlı Witcher Geralt, kaderin ağlarını yeniden örmek zorunda kalır. Kayıp kızı Ciri'nin peşindeki yolculuğu, onu unutulmuş canavarların ve amansız avcıların Gölge Alemi'nden gelen tehdidiyle yüzleştirir."
     }
   ],
   "synthesizedAlgorithm": null,
-  "lastUpdated": 1766306161197
+  "lastUpdated": 1766306295176
 }
