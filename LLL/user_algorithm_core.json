@@ -1,6 +1,11 @@
 {
   "likes": [],
-  "dislikes": [],
+  "dislikes": [
+    {
+      "source": "Elden Ring",
+      "hook": "Altın Emri paramparça oldu, kudretli Erdtree'nin kutsaması solarken, Topraklar Arası'nın kaderi parçalanmış bir kudretin gölgesinde sallanıyor. Bir zamanlar ebedi olan yaşam, şimdi ölümsüzlerin lanetiyle boğuşurken, Tarnished'lar arasında kim bu kadim yüzüğü yeniden birleştirebilecek?"
+    }
+  ],
   "synthesizedAlgorithm": null,
-  "lastUpdated": 1766305799311
+  "lastUpdated": 1766305840522
 }
