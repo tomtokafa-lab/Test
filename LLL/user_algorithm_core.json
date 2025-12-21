@@ -23,7 +23,7 @@
     "Ori and the Will of the Wisps",
     "God of War (2018)"
   ],
-  "lastUpdated": 1766300727572,
+  "lastUpdated": 1766300735920,
   "rejections": [
     {
       "source": "Subnautica",
@@ -39,6 +39,11 @@
       "source": "Dark Souls",
       "hook": "İlk Alev'in ışığı zayıfladığında, tanrıların çağı sona erer ve dünya, ölümsüz bir lanetin gölgesine düşer. Ateşi yeniden harlamak ya da sönmesine izin verip karanlık bir çağı başlatmak arasında kalan lanetli ölümsüzler, yıkılmış krallıkların külleri üzerinde yürüyerek kaderleriyle yüzleşirler.",
       "timestamp": 1766300727572
+    },
+    {
+      "source": "The Witcher 3: Wild Hunt",
+      "hook": "Kürelerin Birleşimi, dünyaları birbirine çarpıp canavarları ve sihri bu topraklara saçtığında, insanlık hayatta kalmak için kendi canavarlarını yarattı. Şimdi, o canavarların sonuncularından biri, bir kehanetin peşinde diyar diyar gezerken, asıl canavarlığın hançerlerde ve tahtlarda gizlendiğini öğreniyor.",
+      "timestamp": 1766300735920
     }
   ]
 }
