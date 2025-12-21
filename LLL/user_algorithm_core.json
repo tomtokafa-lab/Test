@@ -23,7 +23,7 @@
     "Ori and the Will of the Wisps",
     "God of War (2018)"
   ],
-  "lastUpdated": 1766300524608,
+  "lastUpdated": 1766300727572,
   "rejections": [
     {
       "source": "Subnautica",
@@ -34,6 +34,11 @@
       "source": "Bloodborne",
       "hook": "Yharnam şehrinin gotik kuleleri arasında eski kanın laneti fısıldanır ve av gecesi başlar. Şifa arayışıyla geldiğin bu şehir, şimdi deliliğin ve canavarlaşmış sakinlerinin pençesinde kıvranırken, gecenin en karanlık sırrı göklerden sızmaktadır.",
       "timestamp": 1766300524608
+    },
+    {
+      "source": "Dark Souls",
+      "hook": "İlk Alev'in ışığı zayıfladığında, tanrıların çağı sona erer ve dünya, ölümsüz bir lanetin gölgesine düşer. Ateşi yeniden harlamak ya da sönmesine izin verip karanlık bir çağı başlatmak arasında kalan lanetli ölümsüzler, yıkılmış krallıkların külleri üzerinde yürüyerek kaderleriyle yüzleşirler.",
+      "timestamp": 1766300727572
     }
   ]
 }
