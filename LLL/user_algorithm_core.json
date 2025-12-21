@@ -23,12 +23,17 @@
     "Ori and the Will of the Wisps",
     "God of War (2018)"
   ],
-  "lastUpdated": 1766299814594,
+  "lastUpdated": 1766300524608,
   "rejections": [
     {
       "source": "Subnautica",
       "hook": "Uzay gemin yabancı bir okyanus dünyasına çakıldıktan sonra, derinliklerdeki sırları keşfederek hayatta kalmaya çalışırsın. Bu gizemli gezegenin kadim biyolojisi ve geride bıraktığı felaketlerin izleri, seni beklenmedik bir kurtuluş hikayesine sürükler.",
       "timestamp": 1766299814594
+    },
+    {
+      "source": "Bloodborne",
+      "hook": "Yharnam şehrinin gotik kuleleri arasında eski kanın laneti fısıldanır ve av gecesi başlar. Şifa arayışıyla geldiğin bu şehir, şimdi deliliğin ve canavarlaşmış sakinlerinin pençesinde kıvranırken, gecenin en karanlık sırrı göklerden sızmaktadır.",
+      "timestamp": 1766300524608
     }
   ]
 }
