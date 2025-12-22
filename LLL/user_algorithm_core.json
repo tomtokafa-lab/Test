@@ -3,6 +3,14 @@
     {
       "source": "Grand Theft Auto V",
       "hook": "Los Santos'un güneşli ama yozlaşmış sokaklarında, üç farklı suçlunun kaderleri kesişir. Büyük soygunlar, bitmek bilmeyen ihanetler arasında, Amerikan rüyasının karanlık yüzü tüm çıplaklığıyla gözler önüne serilir."
+    },
+    {
+      "source": "Silent Hill 2",
+      "hook": "Kasabanın üzerine çöken yoğun sis, sadece görüşü değil, aynı zamanda ruhun en karanlık köşelerine gizlenmiş günahları da örter. Paslı metal seslerinin ve uzak çığlıkların yankılandığı bu kabusta, her adım kişisel bir cehennemin kapılarını aralar."
+    },
+    {
+      "source": "Silent Hill 2",
+      "hook": "Kasabanın üzerine çöken yoğun sis, sadece görüşü değil, aynı zamanda ruhun en karanlık köşelerine gizlenmiş günahları da örter. Paslı metal seslerinin ve uzak çığlıkların yankılandığı bu kabusta, her adım kişisel bir cehennemin kapılarını aralar."
     }
   ],
   "dislikes": [
@@ -29,8 +37,12 @@
     {
       "source": "Elden Ring",
       "hook": "Lütuf parıltısı gözlerinden silindiğinde, parçalanmış bir diyarın külleri arasında uyanan Kararmış ruhlar, Kadim Yüzük'ün vaat ettiği tanrısallığın peşine düştü. Altın Ağaç'ın dalları arasından sızan ihanet, ebedi bir savaşın fitilini ateşlerken sadece en güçlüler Aradaki Diyarlar'ın yeni efendisi olabilir."
+    },
+    {
+      "source": "God of War Ragnarök",
+      "hook": "Fimbulwinter'ın dondurucu rüzgarları Dokuz Diyar'ı esir alırken, geçmişin kanlı hayaletlerinden kaçan bir baba ve kaderine yön vermeye çalışan bir oğul, İskandinav tanrılarının gazabıyla yüzleşir. Kehanetlerin gölgesinde verilen bu mücadele, sadece bir ailenin değil, tüm kozmosun sonunu getirecek olan Ragnarök'un ilk kıvılcımıdır."
     }
   ],
   "synthesizedAlgorithm": null,
-  "lastUpdated": 1766422622320
+  "lastUpdated": 1766422708732
 }
