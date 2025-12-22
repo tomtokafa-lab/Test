@@ -1,0 +1,409 @@
+{
+  "testDate": "2025-12-22T14:09:45.077Z",
+  "mode": "hd",
+  "difficulty": "normal",
+  "totalCount": 100,
+  "knownCount": 42,
+  "words": [
+    {
+      "w": "Abandon",
+      "k": false
+    },
+    {
+      "w": "Absolute",
+      "k": true
+    },
+    {
+      "w": "Abundant",
+      "k": false
+    },
+    {
+      "w": "Accurate",
+      "k": true
+    },
+    {
+      "w": "Achieve",
+      "k": true
+    },
+    {
+      "w": "Acquire",
+      "k": true
+    },
+    {
+      "w": "Adequate",
+      "k": false
+    },
+    {
+      "w": "Adjust",
+      "k": true
+    },
+    {
+      "w": "Advance",
+      "k": true
+    },
+    {
+      "w": "Advantage",
+      "k": true
+    },
+    {
+      "w": "Advice",
+      "k": true
+    },
+    {
+      "w": "Affect",
+      "k": false
+    },
+    {
+      "w": "Agony",
+      "k": false
+    },
+    {
+      "w": "Aim",
+      "k": true
+    },
+    {
+      "w": "Alarm",
+      "k": true
+    },
+    {
+      "w": "Alter",
+      "k": true
+    },
+    {
+      "w": "Ambition",
+      "k": true
+    },
+    {
+      "w": "Amount",
+      "k": true
+    },
+    {
+      "w": "Ancient",
+      "k": true
+    },
+    {
+      "w": "Annual",
+      "k": false
+    },
+    {
+      "w": "Anxious",
+      "k": false
+    },
+    {
+      "w": "Appeal",
+      "k": false
+    },
+    {
+      "w": "Appearance",
+      "k": false
+    },
+    {
+      "w": "Appoint",
+      "k": true
+    },
+    {
+      "w": "Appreciate",
+      "k": false
+    },
+    {
+      "w": "Approve",
+      "k": true
+    },
+    {
+      "w": "Arise",
+      "k": false
+    },
+    {
+      "w": "Arrange",
+      "k": false
+    },
+    {
+      "w": "Aspect",
+      "k": false
+    },
+    {
+      "w": "Assemble",
+      "k": false
+    },
+    {
+      "w": "Assert",
+      "k": false
+    },
+    {
+      "w": "Assess",
+      "k": true
+    },
+    {
+      "w": "Assign",
+      "k": false
+    },
+    {
+      "w": "Assume",
+      "k": false
+    },
+    {
+      "w": "Assure",
+      "k": true
+    },
+    {
+      "w": "Attach",
+      "k": false
+    },
+    {
+      "w": "Attain",
+      "k": false
+    },
+    {
+      "w": "Attitude",
+      "k": false
+    },
+    {
+      "w": "Attract",
+      "k": false
+    },
+    {
+      "w": "Attribute",
+      "k": false
+    },
+    {
+      "w": "Average",
+      "k": false
+    },
+    {
+      "w": "Avoid",
+      "k": false
+    },
+    {
+      "w": "Aware",
+      "k": false
+    },
+    {
+      "w": "Awkward",
+      "k": true
+    },
+    {
+      "w": "Basic",
+      "k": true
+    },
+    {
+      "w": "Benefit",
+      "k": false
+    },
+    {
+      "w": "Beyond",
+      "k": false
+    },
+    {
+      "w": "Brief",
+      "k": false
+    },
+    {
+      "w": "Broad",
+      "k": true
+    },
+    {
+      "w": "Budget",
+      "k": false
+    },
+    {
+      "w": "Burden",
+      "k": true
+    },
+    {
+      "w": "Candidate",
+      "k": false
+    },
+    {
+      "w": "Capture",
+      "k": true
+    },
+    {
+      "w": "Case",
+      "k": true
+    },
+    {
+      "w": "Cease",
+      "k": false
+    },
+    {
+      "w": "Certain",
+      "k": false
+    },
+    {
+      "w": "Circumstance",
+      "k": true
+    },
+    {
+      "w": "Claim",
+      "k": false
+    },
+    {
+      "w": "Clarify",
+      "k": true
+    },
+    {
+      "w": "Clue",
+      "k": false
+    },
+    {
+      "w": "Coincide",
+      "k": false
+    },
+    {
+      "w": "Collapse",
+      "k": true
+    },
+    {
+      "w": "Column",
+      "k": true
+    },
+    {
+      "w": "Commit",
+      "k": true
+    },
+    {
+      "w": "Compare",
+      "k": true
+    },
+    {
+      "w": "Compete",
+      "k": false
+    },
+    {
+      "w": "Complain",
+      "k": false
+    },
+    {
+      "w": "Complete",
+      "k": true
+    },
+    {
+      "w": "Component",
+      "k": false
+    },
+    {
+      "w": "Compose",
+      "k": true
+    },
+    {
+      "w": "Compound",
+      "k": false
+    },
+    {
+      "w": "Comprise",
+      "k": true
+    },
+    {
+      "w": "Conclude",
+      "k": false
+    },
+    {
+      "w": "Conduct",
+      "k": false
+    },
+    {
+      "w": "Confer",
+      "k": false
+    },
+    {
+      "w": "Confess",
+      "k": false
+    },
+    {
+      "w": "Confine",
+      "k": false
+    },
+    {
+      "w": "Conflict",
+      "k": false
+    },
+    {
+      "w": "Confront",
+      "k": false
+    },
+    {
+      "w": "Confusion",
+      "k": true
+    },
+    {
+      "w": "Congratulate",
+      "k": true
+    },
+    {
+      "w": "Consent",
+      "k": true
+    },
+    {
+      "w": "Consequence",
+      "k": true
+    },
+    {
+      "w": "Consider",
+      "k": false
+    },
+    {
+      "w": "Consist",
+      "k": false
+    },
+    {
+      "w": "Constant",
+      "k": true
+    },
+    {
+      "w": "Construct",
+      "k": false
+    },
+    {
+      "w": "Consult",
+      "k": true
+    },
+    {
+      "w": "Consume",
+      "k": true
+    },
+    {
+      "w": "Contact",
+      "k": false
+    },
+    {
+      "w": "Contain",
+      "k": false
+    },
+    {
+      "w": "Contemporary",
+      "k": true
+    },
+    {
+      "w": "Context",
+      "k": false
+    },
+    {
+      "w": "Contrast",
+      "k": false
+    },
+    {
+      "w": "Contribute",
+      "k": false
+    },
+    {
+      "w": "Control",
+      "k": false
+    },
+    {
+      "w": "Convert",
+      "k": true
+    },
+    {
+      "w": "Convey",
+      "k": false
+    },
+    {
+      "w": "Convince",
+      "k": false
+    },
+    {
+      "w": "Cooperate",
+      "k": false
+    }
+  ]
+}
