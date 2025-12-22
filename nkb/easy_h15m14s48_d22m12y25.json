@@ -1,0 +1,408 @@
+{
+  "testDate": "2025-12-22T12:14:48.025Z",
+  "difficulty": "easy",
+  "totalCount": 100,
+  "knownCount": 60,
+  "words": [
+    {
+      "w": "hand",
+      "k": true
+    },
+    {
+      "w": "foot",
+      "k": false
+    },
+    {
+      "w": "eye",
+      "k": true
+    },
+    {
+      "w": "ear",
+      "k": true
+    },
+    {
+      "w": "nose",
+      "k": false
+    },
+    {
+      "w": "arm",
+      "k": false
+    },
+    {
+      "w": "leg",
+      "k": true
+    },
+    {
+      "w": "head",
+      "k": true
+    },
+    {
+      "w": "face",
+      "k": true
+    },
+    {
+      "w": "hair",
+      "k": true
+    },
+    {
+      "w": "finger",
+      "k": false
+    },
+    {
+      "w": "tooth",
+      "k": false
+    },
+    {
+      "w": "salt",
+      "k": false
+    },
+    {
+      "w": "sugar",
+      "k": true
+    },
+    {
+      "w": "egg",
+      "k": true
+    },
+    {
+      "w": "rice",
+      "k": false
+    },
+    {
+      "w": "cake",
+      "k": true
+    },
+    {
+      "w": "cup",
+      "k": false
+    },
+    {
+      "w": "plate",
+      "k": false
+    },
+    {
+      "w": "knife",
+      "k": true
+    },
+    {
+      "w": "fork",
+      "k": false
+    },
+    {
+      "w": "spoon",
+      "k": false
+    },
+    {
+      "w": "fruit",
+      "k": false
+    },
+    {
+      "w": "vegetable",
+      "k": false
+    },
+    {
+      "w": "shirt",
+      "k": false
+    },
+    {
+      "w": "pants",
+      "k": true
+    },
+    {
+      "w": "dress",
+      "k": false
+    },
+    {
+      "w": "hat",
+      "k": false
+    },
+    {
+      "w": "shoes",
+      "k": false
+    },
+    {
+      "w": "sock",
+      "k": false
+    },
+    {
+      "w": "coat",
+      "k": false
+    },
+    {
+      "w": "horse",
+      "k": true
+    },
+    {
+      "w": "cow",
+      "k": true
+    },
+    {
+      "w": "pig",
+      "k": true
+    },
+    {
+      "w": "sheep",
+      "k": true
+    },
+    {
+      "w": "monkey",
+      "k": true
+    },
+    {
+      "w": "lion",
+      "k": true
+    },
+    {
+      "w": "tiger",
+      "k": true
+    },
+    {
+      "w": "snake",
+      "k": true
+    },
+    {
+      "w": "mouse",
+      "k": true
+    },
+    {
+      "w": "rain",
+      "k": true
+    },
+    {
+      "w": "snow",
+      "k": true
+    },
+    {
+      "w": "wind",
+      "k": true
+    },
+    {
+      "w": "cloud",
+      "k": true
+    },
+    {
+      "w": "mountain",
+      "k": true
+    },
+    {
+      "w": "lake",
+      "k": false
+    },
+    {
+      "w": "river",
+      "k": false
+    },
+    {
+      "w": "sea",
+      "k": true
+    },
+    {
+      "w": "floor",
+      "k": false
+    },
+    {
+      "w": "wall",
+      "k": true
+    },
+    {
+      "w": "light",
+      "k": true
+    },
+    {
+      "w": "box",
+      "k": true
+    },
+    {
+      "w": "key",
+      "k": true
+    },
+    {
+      "w": "bag",
+      "k": true
+    },
+    {
+      "w": "jump",
+      "k": true
+    },
+    {
+      "w": "sing",
+      "k": false
+    },
+    {
+      "w": "dance",
+      "k": true
+    },
+    {
+      "w": "cook",
+      "k": true
+    },
+    {
+      "w": "swim",
+      "k": false
+    },
+    {
+      "w": "fly",
+      "k": true
+    },
+    {
+      "w": "laugh",
+      "k": true
+    },
+    {
+      "w": "cry",
+      "k": true
+    },
+    {
+      "w": "wait",
+      "k": true
+    },
+    {
+      "w": "find",
+      "k": true
+    },
+    {
+      "w": "lose",
+      "k": true
+    },
+    {
+      "w": "win",
+      "k": true
+    },
+    {
+      "w": "sit",
+      "k": true
+    },
+    {
+      "w": "stand",
+      "k": false
+    },
+    {
+      "w": "tall",
+      "k": false
+    },
+    {
+      "w": "short",
+      "k": true
+    },
+    {
+      "w": "long",
+      "k": true
+    },
+    {
+      "w": "fat",
+      "k": true
+    },
+    {
+      "w": "thin",
+      "k": false
+    },
+    {
+      "w": "rich",
+      "k": false
+    },
+    {
+      "w": "poor",
+      "k": true
+    },
+    {
+      "w": "cheap",
+      "k": true
+    },
+    {
+      "w": "young",
+      "k": false
+    },
+    {
+      "w": "busy",
+      "k": false
+    },
+    {
+      "w": "free",
+      "k": true
+    },
+    {
+      "w": "ready",
+      "k": true
+    },
+    {
+      "w": "dark",
+      "k": true
+    },
+    {
+      "w": "hour",
+      "k": true
+    },
+    {
+      "w": "minute",
+      "k": true
+    },
+    {
+      "w": "second",
+      "k": true
+    },
+    {
+      "w": "monday",
+      "k": true
+    },
+    {
+      "w": "tuesday",
+      "k": false
+    },
+    {
+      "w": "wednesday",
+      "k": false
+    },
+    {
+      "w": "thursday",
+      "k": false
+    },
+    {
+      "w": "friday",
+      "k": false
+    },
+    {
+      "w": "saturday",
+      "k": false
+    },
+    {
+      "w": "sunday",
+      "k": false
+    },
+    {
+      "w": "spring",
+      "k": false
+    },
+    {
+      "w": "summer",
+      "k": true
+    },
+    {
+      "w": "autumn",
+      "k": false
+    },
+    {
+      "w": "winter",
+      "k": true
+    },
+    {
+      "w": "bike",
+      "k": false
+    },
+    {
+      "w": "train",
+      "k": true
+    },
+    {
+      "w": "boat",
+      "k": false
+    },
+    {
+      "w": "ship",
+      "k": true
+    },
+    {
+      "w": "map",
+      "k": true
+    }
+  ]
+}
