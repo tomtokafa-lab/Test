@@ -1,0 +1,408 @@
+{
+  "testDate": "2025-12-22T12:21:58.378Z",
+  "difficulty": "easy",
+  "totalCount": 100,
+  "knownCount": 53,
+  "words": [
+    {
+      "w": "orange",
+      "k": true
+    },
+    {
+      "w": "pink",
+      "k": true
+    },
+    {
+      "w": "purple",
+      "k": true
+    },
+    {
+      "w": "brown",
+      "k": false
+    },
+    {
+      "w": "grey",
+      "k": true
+    },
+    {
+      "w": "arm",
+      "k": false
+    },
+    {
+      "w": "finger",
+      "k": false
+    },
+    {
+      "w": "nose",
+      "k": true
+    },
+    {
+      "w": "mouth",
+      "k": false
+    },
+    {
+      "w": "tooth",
+      "k": false
+    },
+    {
+      "w": "knee",
+      "k": false
+    },
+    {
+      "w": "neck",
+      "k": false
+    },
+    {
+      "w": "shoulder",
+      "k": false
+    },
+    {
+      "w": "back",
+      "k": true
+    },
+    {
+      "w": "heart",
+      "k": true
+    },
+    {
+      "w": "salt",
+      "k": false
+    },
+    {
+      "w": "rice",
+      "k": false
+    },
+    {
+      "w": "meat",
+      "k": false
+    },
+    {
+      "w": "fruit",
+      "k": true
+    },
+    {
+      "w": "soup",
+      "k": false
+    },
+    {
+      "w": "juice",
+      "k": false
+    },
+    {
+      "w": "cheese",
+      "k": true
+    },
+    {
+      "w": "honey",
+      "k": true
+    },
+    {
+      "w": "butter",
+      "k": false
+    },
+    {
+      "w": "potato",
+      "k": true
+    },
+    {
+      "w": "onion",
+      "k": false
+    },
+    {
+      "w": "tomato",
+      "k": true
+    },
+    {
+      "w": "banana",
+      "k": true
+    },
+    {
+      "w": "lemon",
+      "k": true
+    },
+    {
+      "w": "candy",
+      "k": true
+    },
+    {
+      "w": "cookie",
+      "k": true
+    },
+    {
+      "w": "rabbit",
+      "k": true
+    },
+    {
+      "w": "duck",
+      "k": false
+    },
+    {
+      "w": "bear",
+      "k": true
+    },
+    {
+      "w": "bee",
+      "k": true
+    },
+    {
+      "w": "ant",
+      "k": false
+    },
+    {
+      "w": "spider",
+      "k": true
+    },
+    {
+      "w": "frog",
+      "k": true
+    },
+    {
+      "w": "turtle",
+      "k": true
+    },
+    {
+      "w": "wolf",
+      "k": true
+    },
+    {
+      "w": "fox",
+      "k": true
+    },
+    {
+      "w": "room",
+      "k": true
+    },
+    {
+      "w": "kitchen",
+      "k": true
+    },
+    {
+      "w": "bath",
+      "k": false
+    },
+    {
+      "w": "garden",
+      "k": true
+    },
+    {
+      "w": "gate",
+      "k": false
+    },
+    {
+      "w": "cup",
+      "k": false
+    },
+    {
+      "w": "glass",
+      "k": true
+    },
+    {
+      "w": "bowl",
+      "k": false
+    },
+    {
+      "w": "plate",
+      "k": false
+    },
+    {
+      "w": "spoon",
+      "k": false
+    },
+    {
+      "w": "fork",
+      "k": false
+    },
+    {
+      "w": "desk",
+      "k": false
+    },
+    {
+      "w": "shelf",
+      "k": false
+    },
+    {
+      "w": "lamp",
+      "k": true
+    },
+    {
+      "w": "clock",
+      "k": false
+    },
+    {
+      "w": "mirror",
+      "k": false
+    },
+    {
+      "w": "soap",
+      "k": false
+    },
+    {
+      "w": "towel",
+      "k": false
+    },
+    {
+      "w": "shirt",
+      "k": true
+    },
+    {
+      "w": "hat",
+      "k": true
+    },
+    {
+      "w": "shoe",
+      "k": false
+    },
+    {
+      "w": "sock",
+      "k": false
+    },
+    {
+      "w": "dress",
+      "k": true
+    },
+    {
+      "w": "coat",
+      "k": true
+    },
+    {
+      "w": "skirt",
+      "k": true
+    },
+    {
+      "w": "belt",
+      "k": false
+    },
+    {
+      "w": "glove",
+      "k": false
+    },
+    {
+      "w": "grass",
+      "k": true
+    },
+    {
+      "w": "leaf",
+      "k": false
+    },
+    {
+      "w": "rock",
+      "k": false
+    },
+    {
+      "w": "sand",
+      "k": true
+    },
+    {
+      "w": "lake",
+      "k": false
+    },
+    {
+      "w": "hill",
+      "k": false
+    },
+    {
+      "w": "farm",
+      "k": true
+    },
+    {
+      "w": "field",
+      "k": false
+    },
+    {
+      "w": "forest",
+      "k": true
+    },
+    {
+      "w": "fire",
+      "k": true
+    },
+    {
+      "w": "land",
+      "k": false
+    },
+    {
+      "w": "push",
+      "k": false
+    },
+    {
+      "w": "pull",
+      "k": false
+    },
+    {
+      "w": "carry",
+      "k": false
+    },
+    {
+      "w": "draw",
+      "k": true
+    },
+    {
+      "w": "paint",
+      "k": true
+    },
+    {
+      "w": "sing",
+      "k": false
+    },
+    {
+      "w": "swim",
+      "k": true
+    },
+    {
+      "w": "wash",
+      "k": false
+    },
+    {
+      "w": "clean",
+      "k": true
+    },
+    {
+      "w": "fix",
+      "k": true
+    },
+    {
+      "w": "call",
+      "k": true
+    },
+    {
+      "w": "show",
+      "k": true
+    },
+    {
+      "w": "tell",
+      "k": true
+    },
+    {
+      "w": "hear",
+      "k": true
+    },
+    {
+      "w": "feel",
+      "k": true
+    },
+    {
+      "w": "want",
+      "k": true
+    },
+    {
+      "w": "need",
+      "k": true
+    },
+    {
+      "w": "start",
+      "k": true
+    },
+    {
+      "w": "strong",
+      "k": false
+    },
+    {
+      "w": "weak",
+      "k": false
+    },
+    {
+      "w": "quiet",
+      "k": true
+    }
+  ]
+}
