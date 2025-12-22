@@ -25,8 +25,12 @@
     {
       "source": "The Witcher 3: Wild Hunt",
       "hook": "Kuzey Krallıkları'nı saran savaşın ve kadim kehanetlerin ortasında, ak saçlı Witcher Geralt, kaderin ağlarını yeniden örmek zorunda kalır. Kayıp kızı Ciri'nin peşindeki yolculuğu, onu unutulmuş canavarların ve amansız avcıların Gölge Alemi'nden gelen tehdidiyle yüzleştirir."
+    },
+    {
+      "source": "Elden Ring",
+      "hook": "Lütuf parıltısı gözlerinden silindiğinde, parçalanmış bir diyarın külleri arasında uyanan Kararmış ruhlar, Kadim Yüzük'ün vaat ettiği tanrısallığın peşine düştü. Altın Ağaç'ın dalları arasından sızan ihanet, ebedi bir savaşın fitilini ateşlerken sadece en güçlüler Aradaki Diyarlar'ın yeni efendisi olabilir."
     }
   ],
   "synthesizedAlgorithm": null,
-  "lastUpdated": 1766306295176
+  "lastUpdated": 1766422622320
 }
