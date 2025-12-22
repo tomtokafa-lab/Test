@@ -1,0 +1,2008 @@
+{
+  "testDate": "2025-12-22T09:29:03.963Z",
+  "difficulty": "normal",
+  "totalCount": 500,
+  "knownCount": 114,
+  "words": [
+    {
+      "w": "Accomplish",
+      "k": false
+    },
+    {
+      "w": "Acquire",
+      "k": false
+    },
+    {
+      "w": "Adapt",
+      "k": false
+    },
+    {
+      "w": "Adequate",
+      "k": false
+    },
+    {
+      "w": "Adjust",
+      "k": false
+    },
+    {
+      "w": "Advocate",
+      "k": false
+    },
+    {
+      "w": "Analyze",
+      "k": true
+    },
+    {
+      "w": "Annual",
+      "k": false
+    },
+    {
+      "w": "Apparent",
+      "k": false
+    },
+    {
+      "w": "Approach",
+      "k": false
+    },
+    {
+      "w": "Appropriate",
+      "k": false
+    },
+    {
+      "w": "Approve",
+      "k": false
+    },
+    {
+      "w": "Aspect",
+      "k": false
+    },
+    {
+      "w": "Assert",
+      "k": false
+    },
+    {
+      "w": "Assess",
+      "k": false
+    },
+    {
+      "w": "Assist",
+      "k": false
+    },
+    {
+      "w": "Assume",
+      "k": false
+    },
+    {
+      "w": "Attempt",
+      "k": true
+    },
+    {
+      "w": "Attitude",
+      "k": false
+    },
+    {
+      "w": "Attribute",
+      "k": false
+    },
+    {
+      "w": "Audience",
+      "k": false
+    },
+    {
+      "w": "Available",
+      "k": false
+    },
+    {
+      "w": "Aware",
+      "k": false
+    },
+    {
+      "w": "Barrier",
+      "k": false
+    },
+    {
+      "w": "Belief",
+      "k": false
+    },
+    {
+      "w": "Boundary",
+      "k": false
+    },
+    {
+      "w": "Capacity",
+      "k": true
+    },
+    {
+      "w": "Category",
+      "k": true
+    },
+    {
+      "w": "Cease",
+      "k": false
+    },
+    {
+      "w": "Challenge",
+      "k": true
+    },
+    {
+      "w": "Circumstance",
+      "k": false
+    },
+    {
+      "w": "Clarify",
+      "k": false
+    },
+    {
+      "w": "Collaborate",
+      "k": false
+    },
+    {
+      "w": "Combine",
+      "k": true
+    },
+    {
+      "w": "Commitment",
+      "k": false
+    },
+    {
+      "w": "Community",
+      "k": true
+    },
+    {
+      "w": "Compensation",
+      "k": false
+    },
+    {
+      "w": "Complex",
+      "k": true
+    },
+    {
+      "w": "Component",
+      "k": false
+    },
+    {
+      "w": "Concept",
+      "k": true
+    },
+    {
+      "w": "Conclusion",
+      "k": false
+    },
+    {
+      "w": "Conduct",
+      "k": false
+    },
+    {
+      "w": "Conflict",
+      "k": false
+    },
+    {
+      "w": "Consequence",
+      "k": false
+    },
+    {
+      "w": "Considerable",
+      "k": false
+    },
+    {
+      "w": "Consistent",
+      "k": false
+    },
+    {
+      "w": "Constant",
+      "k": false
+    },
+    {
+      "w": "Construct",
+      "k": false
+    },
+    {
+      "w": "Consume",
+      "k": false
+    },
+    {
+      "w": "Context",
+      "k": false
+    },
+    {
+      "w": "Contribution",
+      "k": false
+    },
+    {
+      "w": "Convention",
+      "k": false
+    },
+    {
+      "w": "Convey",
+      "k": false
+    },
+    {
+      "w": "Core",
+      "k": true
+    },
+    {
+      "w": "Corporate",
+      "k": false
+    },
+    {
+      "w": "Corresponding",
+      "k": false
+    },
+    {
+      "w": "Crucial",
+      "k": false
+    },
+    {
+      "w": "Currency",
+      "k": false
+    },
+    {
+      "w": "Decade",
+      "k": false
+    },
+    {
+      "w": "Decline",
+      "k": true
+    },
+    {
+      "w": "Demonstrate",
+      "k": false
+    },
+    {
+      "w": "Derive",
+      "k": false
+    },
+    {
+      "w": "Despite",
+      "k": false
+    },
+    {
+      "w": "Detect",
+      "k": false
+    },
+    {
+      "w": "Device",
+      "k": true
+    },
+    {
+      "w": "Dimension",
+      "k": false
+    },
+    {
+      "w": "Distinguish",
+      "k": false
+    },
+    {
+      "w": "Display",
+      "k": true
+    },
+    {
+      "w": "Distinction",
+      "k": false
+    },
+    {
+      "w": "Distribute",
+      "k": false
+    },
+    {
+      "w": "Diverse",
+      "k": false
+    },
+    {
+      "w": "Document",
+      "k": true
+    },
+    {
+      "w": "Domestic",
+      "k": false
+    },
+    {
+      "w": "Dominant",
+      "k": false
+    },
+    {
+      "w": "Draft",
+      "k": false
+    },
+    {
+      "w": "Duration",
+      "k": false
+    },
+    {
+      "w": "Dynamic",
+      "k": true
+    },
+    {
+      "w": "Edition",
+      "k": true
+    },
+    {
+      "w": "Element",
+      "k": true
+    },
+    {
+      "w": "Eliminate",
+      "k": false
+    },
+    {
+      "w": "Emerge",
+      "k": false
+    },
+    {
+      "w": "Emphasis",
+      "k": false
+    },
+    {
+      "w": "Enable",
+      "k": true
+    },
+    {
+      "w": "Encounter",
+      "k": false
+    },
+    {
+      "w": "Enhance",
+      "k": false
+    },
+    {
+      "w": "Enormous",
+      "k": false
+    },
+    {
+      "w": "Ensure",
+      "k": false
+    },
+    {
+      "w": "Entire",
+      "k": false
+    },
+    {
+      "w": "Entity",
+      "k": true
+    },
+    {
+      "w": "Environment",
+      "k": true
+    },
+    {
+      "w": "Equation",
+      "k": false
+    },
+    {
+      "w": "Equipment",
+      "k": true
+    },
+    {
+      "w": "Equivalent",
+      "k": false
+    },
+    {
+      "w": "Establish",
+      "k": false
+    },
+    {
+      "w": "Estimate",
+      "k": false
+    },
+    {
+      "w": "Ethics",
+      "k": false
+    },
+    {
+      "w": "Evaluation",
+      "k": false
+    },
+    {
+      "w": "Evidence",
+      "k": false
+    },
+    {
+      "w": "Evolution",
+      "k": false
+    },
+    {
+      "w": "Exclude",
+      "k": false
+    },
+    {
+      "w": "Abandon",
+      "k": false
+    },
+    {
+      "w": "Abstract",
+      "k": false
+    },
+    {
+      "w": "Accurate",
+      "k": false
+    },
+    {
+      "w": "Achieve",
+      "k": false
+    },
+    {
+      "w": "Acquire",
+      "k": false
+    },
+    {
+      "w": "Adapt",
+      "k": true
+    },
+    {
+      "w": "Adequate",
+      "k": false
+    },
+    {
+      "w": "Adjust",
+      "k": false
+    },
+    {
+      "w": "Administration",
+      "k": false
+    },
+    {
+      "w": "Affect",
+      "k": false
+    },
+    {
+      "w": "Alternative",
+      "k": false
+    },
+    {
+      "w": "Analyze",
+      "k": true
+    },
+    {
+      "w": "Annual",
+      "k": false
+    },
+    {
+      "w": "Apparent",
+      "k": false
+    },
+    {
+      "w": "Appropriate",
+      "k": false
+    },
+    {
+      "w": "Approximate",
+      "k": false
+    },
+    {
+      "w": "Aspect",
+      "k": false
+    },
+    {
+      "w": "Assess",
+      "k": false
+    },
+    {
+      "w": "Attribute",
+      "k": false
+    },
+    {
+      "w": "Authority",
+      "k": false
+    },
+    {
+      "w": "Available",
+      "k": false
+    },
+    {
+      "w": "Benefit",
+      "k": false
+    },
+    {
+      "w": "Brief",
+      "k": false
+    },
+    {
+      "w": "Capability",
+      "k": false
+    },
+    {
+      "w": "Capacity",
+      "k": false
+    },
+    {
+      "w": "Category",
+      "k": true
+    },
+    {
+      "w": "Challenge",
+      "k": true
+    },
+    {
+      "w": "Circumstance",
+      "k": false
+    },
+    {
+      "w": "Clarify",
+      "k": false
+    },
+    {
+      "w": "Clause",
+      "k": false
+    },
+    {
+      "w": "Coherent",
+      "k": false
+    },
+    {
+      "w": "Comment",
+      "k": true
+    },
+    {
+      "w": "Commission",
+      "k": false
+    },
+    {
+      "w": "Commitment",
+      "k": false
+    },
+    {
+      "w": "Community",
+      "k": true
+    },
+    {
+      "w": "Compensate",
+      "k": false
+    },
+    {
+      "w": "Component",
+      "k": false
+    },
+    {
+      "w": "Compound",
+      "k": false
+    },
+    {
+      "w": "Comprehensive",
+      "k": false
+    },
+    {
+      "w": "Comprise",
+      "k": false
+    },
+    {
+      "w": "Concept",
+      "k": true
+    },
+    {
+      "w": "Conclude",
+      "k": false
+    },
+    {
+      "w": "Conduct",
+      "k": false
+    },
+    {
+      "w": "Conflicting",
+      "k": false
+    },
+    {
+      "w": "Consent",
+      "k": false
+    },
+    {
+      "w": "Consequence",
+      "k": false
+    },
+    {
+      "w": "Considerable",
+      "k": false
+    },
+    {
+      "w": "Consist",
+      "k": false
+    },
+    {
+      "w": "Constant",
+      "k": false
+    },
+    {
+      "w": "Constitute",
+      "k": false
+    },
+    {
+      "w": "Constraint",
+      "k": false
+    },
+    {
+      "w": "Construct",
+      "k": false
+    },
+    {
+      "w": "Consumer",
+      "k": false
+    },
+    {
+      "w": "Context",
+      "k": false
+    },
+    {
+      "w": "Contract",
+      "k": false
+    },
+    {
+      "w": "Contrast",
+      "k": false
+    },
+    {
+      "w": "Create",
+      "k": true
+    },
+    {
+      "w": "Criteria",
+      "k": false
+    },
+    {
+      "w": "Cycle",
+      "k": false
+    },
+    {
+      "w": "Data",
+      "k": true
+    },
+    {
+      "w": "Debate",
+      "k": false
+    },
+    {
+      "w": "Deduce",
+      "k": false
+    },
+    {
+      "w": "Define",
+      "k": false
+    },
+    {
+      "w": "Definite",
+      "k": false
+    },
+    {
+      "w": "Deny",
+      "k": false
+    },
+    {
+      "w": "Depression",
+      "k": true
+    },
+    {
+      "w": "Design",
+      "k": true
+    },
+    {
+      "w": "Discrete",
+      "k": false
+    },
+    {
+      "w": "Discrimination",
+      "k": false
+    },
+    {
+      "w": "Displacement",
+      "k": false
+    },
+    {
+      "w": "Economic",
+      "k": true
+    },
+    {
+      "w": "Efficient",
+      "k": false
+    },
+    {
+      "w": "Energy",
+      "k": true
+    },
+    {
+      "w": "Enforce",
+      "k": false
+    },
+    {
+      "w": "Error",
+      "k": true
+    },
+    {
+      "w": "Essential",
+      "k": false
+    },
+    {
+      "w": "Estate",
+      "k": false
+    },
+    {
+      "w": "Expand",
+      "k": false
+    },
+    {
+      "w": "Experience",
+      "k": true
+    },
+    {
+      "w": "Expert",
+      "k": false
+    },
+    {
+      "w": "Explicit",
+      "k": false
+    },
+    {
+      "w": "Export",
+      "k": true
+    },
+    {
+      "w": "Exposure",
+      "k": false
+    },
+    {
+      "w": "External",
+      "k": false
+    },
+    {
+      "w": "Facilitate",
+      "k": false
+    },
+    {
+      "w": "Factor",
+      "k": false
+    },
+    {
+      "w": "Feature",
+      "k": false
+    },
+    {
+      "w": "Federal",
+      "k": false
+    },
+    {
+      "w": "Fee",
+      "k": false
+    },
+    {
+      "w": "File",
+      "k": true
+    },
+    {
+      "w": "Final",
+      "k": true
+    },
+    {
+      "w": "Financial",
+      "k": true
+    },
+    {
+      "w": "Finite",
+      "k": false
+    },
+    {
+      "w": "Flexible",
+      "k": false
+    },
+    {
+      "w": "Focus",
+      "k": true
+    },
+    {
+      "w": "Framework",
+      "k": false
+    },
+    {
+      "w": "Function",
+      "k": true
+    },
+    {
+      "w": "Fundamental",
+      "k": false
+    },
+    {
+      "w": "Generation",
+      "k": false
+    },
+    {
+      "w": "Global",
+      "k": true
+    },
+    {
+      "w": "Abandon",
+      "k": false
+    },
+    {
+      "w": "Academy",
+      "k": true
+    },
+    {
+      "w": "Access",
+      "k": true
+    },
+    {
+      "w": "Accommodate",
+      "k": false
+    },
+    {
+      "w": "Accompany",
+      "k": false
+    },
+    {
+      "w": "Accumulate",
+      "k": false
+    },
+    {
+      "w": "Accurate",
+      "k": false
+    },
+    {
+      "w": "Achieve",
+      "k": false
+    },
+    {
+      "w": "Acquire",
+      "k": false
+    },
+    {
+      "w": "Adapt",
+      "k": false
+    },
+    {
+      "w": "Adequate",
+      "k": false
+    },
+    {
+      "w": "Adjacent",
+      "k": false
+    },
+    {
+      "w": "Adjust",
+      "k": false
+    },
+    {
+      "w": "Administration",
+      "k": false
+    },
+    {
+      "w": "Adult",
+      "k": false
+    },
+    {
+      "w": "Advocate",
+      "k": false
+    },
+    {
+      "w": "Affect",
+      "k": false
+    },
+    {
+      "w": "Aggregate",
+      "k": false
+    },
+    {
+      "w": "Aid",
+      "k": false
+    },
+    {
+      "w": "Albeit",
+      "k": false
+    },
+    {
+      "w": "Allocate",
+      "k": false
+    },
+    {
+      "w": "Alter",
+      "k": false
+    },
+    {
+      "w": "Alternative",
+      "k": true
+    },
+    {
+      "w": "Ambiguous",
+      "k": false
+    },
+    {
+      "w": "Amend",
+      "k": false
+    },
+    {
+      "w": "Analogy",
+      "k": false
+    },
+    {
+      "w": "Analyze",
+      "k": true
+    },
+    {
+      "w": "Annual",
+      "k": false
+    },
+    {
+      "w": "Anticipate",
+      "k": false
+    },
+    {
+      "w": "Apparent",
+      "k": false
+    },
+    {
+      "w": "Append",
+      "k": false
+    },
+    {
+      "w": "Appreciate",
+      "k": false
+    },
+    {
+      "w": "Approach",
+      "k": false
+    },
+    {
+      "w": "Appropriate",
+      "k": false
+    },
+    {
+      "w": "Approximate",
+      "k": false
+    },
+    {
+      "w": "Arbitrary",
+      "k": false
+    },
+    {
+      "w": "Area",
+      "k": true
+    },
+    {
+      "w": "Aspect",
+      "k": false
+    },
+    {
+      "w": "Assemble",
+      "k": false
+    },
+    {
+      "w": "Assess",
+      "k": false
+    },
+    {
+      "w": "Assign",
+      "k": false
+    },
+    {
+      "w": "Assist",
+      "k": true
+    },
+    {
+      "w": "Assume",
+      "k": false
+    },
+    {
+      "w": "Assure",
+      "k": false
+    },
+    {
+      "w": "Attach",
+      "k": false
+    },
+    {
+      "w": "Attain",
+      "k": false
+    },
+    {
+      "w": "Attitude",
+      "k": false
+    },
+    {
+      "w": "Attribute",
+      "k": false
+    },
+    {
+      "w": "Author",
+      "k": false
+    },
+    {
+      "w": "Authority",
+      "k": true
+    },
+    {
+      "w": "Automate",
+      "k": true
+    },
+    {
+      "w": "Available",
+      "k": true
+    },
+    {
+      "w": "Aware",
+      "k": false
+    },
+    {
+      "w": "Behalf",
+      "k": false
+    },
+    {
+      "w": "Benefit",
+      "k": false
+    },
+    {
+      "w": "Bias",
+      "k": false
+    },
+    {
+      "w": "Brief",
+      "k": false
+    },
+    {
+      "w": "Bulk",
+      "k": false
+    },
+    {
+      "w": "Capable",
+      "k": false
+    },
+    {
+      "w": "Capacity",
+      "k": true
+    },
+    {
+      "w": "Category",
+      "k": true
+    },
+    {
+      "w": "Cease",
+      "k": false
+    },
+    {
+      "w": "Challenge",
+      "k": true
+    },
+    {
+      "w": "Channel",
+      "k": true
+    },
+    {
+      "w": "Chapter",
+      "k": true
+    },
+    {
+      "w": "Chart",
+      "k": false
+    },
+    {
+      "w": "Chemical",
+      "k": false
+    },
+    {
+      "w": "Circumstance",
+      "k": false
+    },
+    {
+      "w": "Cite",
+      "k": false
+    },
+    {
+      "w": "Civil",
+      "k": false
+    },
+    {
+      "w": "Clarify",
+      "k": false
+    },
+    {
+      "w": "Classic",
+      "k": true
+    },
+    {
+      "w": "Clause",
+      "k": false
+    },
+    {
+      "w": "Code",
+      "k": true
+    },
+    {
+      "w": "Coherent",
+      "k": false
+    },
+    {
+      "w": "Coincide",
+      "k": false
+    },
+    {
+      "w": "Collapse",
+      "k": false
+    },
+    {
+      "w": "Colleague",
+      "k": true
+    },
+    {
+      "w": "Collect",
+      "k": false
+    },
+    {
+      "w": "Combine",
+      "k": true
+    },
+    {
+      "w": "Comment",
+      "k": true
+    },
+    {
+      "w": "Commission",
+      "k": false
+    },
+    {
+      "w": "Commit",
+      "k": false
+    },
+    {
+      "w": "Commodity",
+      "k": false
+    },
+    {
+      "w": "Communicate",
+      "k": false
+    },
+    {
+      "w": "Community",
+      "k": true
+    },
+    {
+      "w": "Compatible",
+      "k": false
+    },
+    {
+      "w": "Compensate",
+      "k": false
+    },
+    {
+      "w": "Compile",
+      "k": false
+    },
+    {
+      "w": "Complement",
+      "k": false
+    },
+    {
+      "w": "Complex",
+      "k": true
+    },
+    {
+      "w": "Component",
+      "k": false
+    },
+    {
+      "w": "Compound",
+      "k": false
+    },
+    {
+      "w": "Comprehensive",
+      "k": false
+    },
+    {
+      "w": "Comprise",
+      "k": false
+    },
+    {
+      "w": "Compute",
+      "k": false
+    },
+    {
+      "w": "Conceive",
+      "k": false
+    },
+    {
+      "w": "Concentrate",
+      "k": false
+    },
+    {
+      "w": "Concept",
+      "k": true
+    },
+    {
+      "w": "Conclude",
+      "k": false
+    },
+    {
+      "w": "Abandon",
+      "k": false
+    },
+    {
+      "w": "Abstract",
+      "k": false
+    },
+    {
+      "w": "Academic",
+      "k": true
+    },
+    {
+      "w": "Access",
+      "k": true
+    },
+    {
+      "w": "Accommodate",
+      "k": false
+    },
+    {
+      "w": "Accompany",
+      "k": false
+    },
+    {
+      "w": "Accumulate",
+      "k": false
+    },
+    {
+      "w": "Accurate",
+      "k": false
+    },
+    {
+      "w": "Achieve",
+      "k": false
+    },
+    {
+      "w": "Acknowledge",
+      "k": false
+    },
+    {
+      "w": "Acquire",
+      "k": false
+    },
+    {
+      "w": "Adapt",
+      "k": true
+    },
+    {
+      "w": "Adequate",
+      "k": false
+    },
+    {
+      "w": "Adjacent",
+      "k": false
+    },
+    {
+      "w": "Adjust",
+      "k": false
+    },
+    {
+      "w": "Administration",
+      "k": true
+    },
+    {
+      "w": "Adult",
+      "k": true
+    },
+    {
+      "w": "Advocate",
+      "k": false
+    },
+    {
+      "w": "Affect",
+      "k": false
+    },
+    {
+      "w": "Aggregate",
+      "k": false
+    },
+    {
+      "w": "Aid",
+      "k": false
+    },
+    {
+      "w": "Albeit",
+      "k": false
+    },
+    {
+      "w": "Allocate",
+      "k": false
+    },
+    {
+      "w": "Alter",
+      "k": false
+    },
+    {
+      "w": "Alternative",
+      "k": true
+    },
+    {
+      "w": "Ambiguous",
+      "k": false
+    },
+    {
+      "w": "Amend",
+      "k": false
+    },
+    {
+      "w": "Analogy",
+      "k": false
+    },
+    {
+      "w": "Analyze",
+      "k": true
+    },
+    {
+      "w": "Annual",
+      "k": false
+    },
+    {
+      "w": "Anticipate",
+      "k": false
+    },
+    {
+      "w": "Apparent",
+      "k": false
+    },
+    {
+      "w": "Appendix",
+      "k": false
+    },
+    {
+      "w": "Appreciate",
+      "k": false
+    },
+    {
+      "w": "Approach",
+      "k": false
+    },
+    {
+      "w": "Appropriate",
+      "k": false
+    },
+    {
+      "w": "Approximate",
+      "k": false
+    },
+    {
+      "w": "Arbitrary",
+      "k": false
+    },
+    {
+      "w": "Area",
+      "k": true
+    },
+    {
+      "w": "Aspect",
+      "k": false
+    },
+    {
+      "w": "Assemble",
+      "k": false
+    },
+    {
+      "w": "Assess",
+      "k": false
+    },
+    {
+      "w": "Assign",
+      "k": false
+    },
+    {
+      "w": "Assist",
+      "k": true
+    },
+    {
+      "w": "Assume",
+      "k": false
+    },
+    {
+      "w": "Assure",
+      "k": false
+    },
+    {
+      "w": "Attach",
+      "k": false
+    },
+    {
+      "w": "Attain",
+      "k": false
+    },
+    {
+      "w": "Attitude",
+      "k": false
+    },
+    {
+      "w": "Attribute",
+      "k": false
+    },
+    {
+      "w": "Author",
+      "k": true
+    },
+    {
+      "w": "Authority",
+      "k": true
+    },
+    {
+      "w": "Bond",
+      "k": false
+    },
+    {
+      "w": "Boundary",
+      "k": false
+    },
+    {
+      "w": "Budget",
+      "k": false
+    },
+    {
+      "w": "Campaign",
+      "k": true
+    },
+    {
+      "w": "Candidate",
+      "k": false
+    },
+    {
+      "w": "Capture",
+      "k": false
+    },
+    {
+      "w": "Career",
+      "k": true
+    },
+    {
+      "w": "Caution",
+      "k": false
+    },
+    {
+      "w": "Celebrate",
+      "k": false
+    },
+    {
+      "w": "Central",
+      "k": false
+    },
+    {
+      "w": "Century",
+      "k": false
+    },
+    {
+      "w": "Character",
+      "k": true
+    },
+    {
+      "w": "Charity",
+      "k": false
+    },
+    {
+      "w": "Choice",
+      "k": true
+    },
+    {
+      "w": "Citizen",
+      "k": false
+    },
+    {
+      "w": "Claim",
+      "k": false
+    },
+    {
+      "w": "Climate",
+      "k": false
+    },
+    {
+      "w": "Cluster",
+      "k": false
+    },
+    {
+      "w": "Coalition",
+      "k": false
+    },
+    {
+      "w": "Cognitive",
+      "k": false
+    },
+    {
+      "w": "Collaborate",
+      "k": false
+    },
+    {
+      "w": "Column",
+      "k": false
+    },
+    {
+      "w": "Comfort",
+      "k": false
+    },
+    {
+      "w": "Command",
+      "k": true
+    },
+    {
+      "w": "Commerce",
+      "k": false
+    },
+    {
+      "w": "Compare",
+      "k": false
+    },
+    {
+      "w": "Compete",
+      "k": false
+    },
+    {
+      "w": "Conflict",
+      "k": false
+    },
+    {
+      "w": "Conform",
+      "k": false
+    },
+    {
+      "w": "Consent",
+      "k": false
+    },
+    {
+      "w": "Consequence",
+      "k": false
+    },
+    {
+      "w": "Considerable",
+      "k": false
+    },
+    {
+      "w": "Consist",
+      "k": false
+    },
+    {
+      "w": "Constant",
+      "k": false
+    },
+    {
+      "w": "Constitute",
+      "k": false
+    },
+    {
+      "w": "Constrain",
+      "k": false
+    },
+    {
+      "w": "Construct",
+      "k": false
+    },
+    {
+      "w": "Consult",
+      "k": false
+    },
+    {
+      "w": "Consume",
+      "k": false
+    },
+    {
+      "w": "Contact",
+      "k": false
+    },
+    {
+      "w": "Contemporary",
+      "k": false
+    },
+    {
+      "w": "Context",
+      "k": false
+    },
+    {
+      "w": "Contract",
+      "k": false
+    },
+    {
+      "w": "Contradict",
+      "k": false
+    },
+    {
+      "w": "Contrary",
+      "k": false
+    },
+    {
+      "w": "Contrast",
+      "k": false
+    },
+    {
+      "w": "Contribute",
+      "k": false
+    },
+    {
+      "w": "Controversy",
+      "k": false
+    },
+    {
+      "w": "Achieve",
+      "k": false
+    },
+    {
+      "w": "Adapt",
+      "k": true
+    },
+    {
+      "w": "Advance",
+      "k": false
+    },
+    {
+      "w": "Advice",
+      "k": false
+    },
+    {
+      "w": "Affect",
+      "k": false
+    },
+    {
+      "w": "Agreement",
+      "k": false
+    },
+    {
+      "w": "Allow",
+      "k": true
+    },
+    {
+      "w": "Analysis",
+      "k": true
+    },
+    {
+      "w": "Appear",
+      "k": false
+    },
+    {
+      "w": "Apply",
+      "k": true
+    },
+    {
+      "w": "Approach",
+      "k": false
+    },
+    {
+      "w": "Area",
+      "k": true
+    },
+    {
+      "w": "Argue",
+      "k": false
+    },
+    {
+      "w": "Article",
+      "k": false
+    },
+    {
+      "w": "Aspect",
+      "k": false
+    },
+    {
+      "w": "Assessment",
+      "k": false
+    },
+    {
+      "w": "Assume",
+      "k": false
+    },
+    {
+      "w": "Attempt",
+      "k": true
+    },
+    {
+      "w": "Attitude",
+      "k": false
+    },
+    {
+      "w": "Audience",
+      "k": false
+    },
+    {
+      "w": "Average",
+      "k": false
+    },
+    {
+      "w": "Awareness",
+      "k": false
+    },
+    {
+      "w": "Background",
+      "k": true
+    },
+    {
+      "w": "Balance",
+      "k": true
+    },
+    {
+      "w": "Benefit",
+      "k": false
+    },
+    {
+      "w": "Beyond",
+      "k": false
+    },
+    {
+      "w": "Board",
+      "k": false
+    },
+    {
+      "w": "Brief",
+      "k": false
+    },
+    {
+      "w": "Broad",
+      "k": false
+    },
+    {
+      "w": "Capacity",
+      "k": false
+    },
+    {
+      "w": "Category",
+      "k": true
+    },
+    {
+      "w": "Cause",
+      "k": false
+    },
+    {
+      "w": "Challenge",
+      "k": true
+    },
+    {
+      "w": "Chapter",
+      "k": true
+    },
+    {
+      "w": "Circumstance",
+      "k": false
+    },
+    {
+      "w": "Civil",
+      "k": true
+    },
+    {
+      "w": "Client",
+      "k": false
+    },
+    {
+      "w": "Code",
+      "k": true
+    },
+    {
+      "w": "Collection",
+      "k": true
+    },
+    {
+      "w": "Commission",
+      "k": false
+    },
+    {
+      "w": "Commit",
+      "k": false
+    },
+    {
+      "w": "Committee",
+      "k": false
+    },
+    {
+      "w": "Community",
+      "k": true
+    },
+    {
+      "w": "Complex",
+      "k": true
+    },
+    {
+      "w": "Component",
+      "k": false
+    },
+    {
+      "w": "Compound",
+      "k": false
+    },
+    {
+      "w": "Comprehensive",
+      "k": false
+    },
+    {
+      "w": "Concept",
+      "k": true
+    },
+    {
+      "w": "Conclusion",
+      "k": false
+    },
+    {
+      "w": "Condition",
+      "k": false
+    },
+    {
+      "w": "Conduct",
+      "k": false
+    },
+    {
+      "w": "Conference",
+      "k": false
+    },
+    {
+      "w": "Confirm",
+      "k": true
+    },
+    {
+      "w": "Connection",
+      "k": true
+    },
+    {
+      "w": "Conservation",
+      "k": false
+    },
+    {
+      "w": "Convince",
+      "k": false
+    },
+    {
+      "w": "Corporate",
+      "k": false
+    },
+    {
+      "w": "Council",
+      "k": false
+    },
+    {
+      "w": "Creative",
+      "k": true
+    },
+    {
+      "w": "Crisis",
+      "k": false
+    },
+    {
+      "w": "Criterion",
+      "k": false
+    },
+    {
+      "w": "Critical",
+      "k": true
+    },
+    {
+      "w": "Culture",
+      "k": true
+    },
+    {
+      "w": "Currency",
+      "k": false
+    },
+    {
+      "w": "Current",
+      "k": false
+    },
+    {
+      "w": "Cycle",
+      "k": false
+    },
+    {
+      "w": "Damage",
+      "k": true
+    },
+    {
+      "w": "Data",
+      "k": true
+    },
+    {
+      "w": "Debate",
+      "k": false
+    },
+    {
+      "w": "Decade",
+      "k": false
+    },
+    {
+      "w": "Decision",
+      "k": false
+    },
+    {
+      "w": "Decline",
+      "k": false
+    },
+    {
+      "w": "Define",
+      "k": false
+    },
+    {
+      "w": "Degree",
+      "k": false
+    },
+    {
+      "w": "Delivery",
+      "k": false
+    },
+    {
+      "w": "Demand",
+      "k": false
+    },
+    {
+      "w": "Demonstrate",
+      "k": false
+    },
+    {
+      "w": "Department",
+      "k": false
+    },
+    {
+      "w": "Depend",
+      "k": false
+    },
+    {
+      "w": "Description",
+      "k": true
+    },
+    {
+      "w": "Design",
+      "k": true
+    },
+    {
+      "w": "Despite",
+      "k": false
+    },
+    {
+      "w": "Detail",
+      "k": true
+    },
+    {
+      "w": "Determine",
+      "k": false
+    },
+    {
+      "w": "Develop",
+      "k": true
+    },
+    {
+      "w": "Device",
+      "k": true
+    },
+    {
+      "w": "Difference",
+      "k": false
+    },
+    {
+      "w": "Difficult",
+      "k": true
+    },
+    {
+      "w": "Direct",
+      "k": false
+    },
+    {
+      "w": "Direction",
+      "k": false
+    },
+    {
+      "w": "Director",
+      "k": false
+    },
+    {
+      "w": "Discovery",
+      "k": true
+    },
+    {
+      "w": "Discussion",
+      "k": false
+    },
+    {
+      "w": "Disease",
+      "k": false
+    },
+    {
+      "w": "Display",
+      "k": true
+    },
+    {
+      "w": "Distance",
+      "k": true
+    },
+    {
+      "w": "Distinct",
+      "k": false
+    },
+    {
+      "w": "Distribution",
+      "k": false
+    },
+    {
+      "w": "District",
+      "k": false
+    },
+    {
+      "w": "Diverse",
+      "k": false
+    }
+  ]
+}
