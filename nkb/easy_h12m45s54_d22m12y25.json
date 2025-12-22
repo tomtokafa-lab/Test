@@ -1,0 +1,408 @@
+{
+  "testDate": "2025-12-22T09:45:54.426Z",
+  "difficulty": "easy",
+  "totalCount": 100,
+  "knownCount": 93,
+  "words": [
+    {
+      "w": "apple",
+      "k": true
+    },
+    {
+      "w": "book",
+      "k": true
+    },
+    {
+      "w": "cat",
+      "k": true
+    },
+    {
+      "w": "dog",
+      "k": true
+    },
+    {
+      "w": "eat",
+      "k": true
+    },
+    {
+      "w": "water",
+      "k": true
+    },
+    {
+      "w": "house",
+      "k": true
+    },
+    {
+      "w": "school",
+      "k": true
+    },
+    {
+      "w": "teacher",
+      "k": true
+    },
+    {
+      "w": "student",
+      "k": true
+    },
+    {
+      "w": "red",
+      "k": true
+    },
+    {
+      "w": "blue",
+      "k": true
+    },
+    {
+      "w": "green",
+      "k": true
+    },
+    {
+      "w": "yellow",
+      "k": true
+    },
+    {
+      "w": "black",
+      "k": true
+    },
+    {
+      "w": "white",
+      "k": true
+    },
+    {
+      "w": "happy",
+      "k": true
+    },
+    {
+      "w": "sad",
+      "k": true
+    },
+    {
+      "w": "big",
+      "k": true
+    },
+    {
+      "w": "small",
+      "k": true
+    },
+    {
+      "w": "hot",
+      "k": true
+    },
+    {
+      "w": "cold",
+      "k": true
+    },
+    {
+      "w": "run",
+      "k": true
+    },
+    {
+      "w": "walk",
+      "k": true
+    },
+    {
+      "w": "sleep",
+      "k": true
+    },
+    {
+      "w": "read",
+      "k": true
+    },
+    {
+      "w": "write",
+      "k": true
+    },
+    {
+      "w": "listen",
+      "k": true
+    },
+    {
+      "w": "speak",
+      "k": true
+    },
+    {
+      "w": "friend",
+      "k": true
+    },
+    {
+      "w": "family",
+      "k": true
+    },
+    {
+      "w": "father",
+      "k": true
+    },
+    {
+      "w": "mother",
+      "k": true
+    },
+    {
+      "w": "brother",
+      "k": true
+    },
+    {
+      "w": "sister",
+      "k": true
+    },
+    {
+      "w": "car",
+      "k": true
+    },
+    {
+      "w": "bus",
+      "k": true
+    },
+    {
+      "w": "bicycle",
+      "k": false
+    },
+    {
+      "w": "plane",
+      "k": true
+    },
+    {
+      "w": "train",
+      "k": false
+    },
+    {
+      "w": "sun",
+      "k": true
+    },
+    {
+      "w": "moon",
+      "k": true
+    },
+    {
+      "w": "star",
+      "k": true
+    },
+    {
+      "w": "sky",
+      "k": true
+    },
+    {
+      "w": "tree",
+      "k": true
+    },
+    {
+      "w": "flower",
+      "k": true
+    },
+    {
+      "w": "bird",
+      "k": true
+    },
+    {
+      "w": "fish",
+      "k": true
+    },
+    {
+      "w": "bread",
+      "k": true
+    },
+    {
+      "w": "milk",
+      "k": true
+    },
+    {
+      "w": "coffee",
+      "k": true
+    },
+    {
+      "w": "tea",
+      "k": true
+    },
+    {
+      "w": "morning",
+      "k": true
+    },
+    {
+      "w": "afternoon",
+      "k": false
+    },
+    {
+      "w": "evening",
+      "k": false
+    },
+    {
+      "w": "night",
+      "k": true
+    },
+    {
+      "w": "day",
+      "k": true
+    },
+    {
+      "w": "week",
+      "k": true
+    },
+    {
+      "w": "month",
+      "k": true
+    },
+    {
+      "w": "year",
+      "k": true
+    },
+    {
+      "w": "today",
+      "k": true
+    },
+    {
+      "w": "tomorrow",
+      "k": false
+    },
+    {
+      "w": "yesterday",
+      "k": false
+    },
+    {
+      "w": "time",
+      "k": true
+    },
+    {
+      "w": "money",
+      "k": true
+    },
+    {
+      "w": "work",
+      "k": true
+    },
+    {
+      "w": "play",
+      "k": true
+    },
+    {
+      "w": "help",
+      "k": true
+    },
+    {
+      "w": "open",
+      "k": true
+    },
+    {
+      "w": "close",
+      "k": true
+    },
+    {
+      "w": "new",
+      "k": true
+    },
+    {
+      "w": "old",
+      "k": true
+    },
+    {
+      "w": "good",
+      "k": true
+    },
+    {
+      "w": "bad",
+      "k": true
+    },
+    {
+      "w": "love",
+      "k": true
+    },
+    {
+      "w": "hate",
+      "k": true
+    },
+    {
+      "w": "question",
+      "k": true
+    },
+    {
+      "w": "answer",
+      "k": true
+    },
+    {
+      "w": "name",
+      "k": true
+    },
+    {
+      "w": "number",
+      "k": true
+    },
+    {
+      "w": "city",
+      "k": true
+    },
+    {
+      "w": "country",
+      "k": true
+    },
+    {
+      "w": "world",
+      "k": true
+    },
+    {
+      "w": "door",
+      "k": true
+    },
+    {
+      "w": "window",
+      "k": true
+    },
+    {
+      "w": "table",
+      "k": true
+    },
+    {
+      "w": "chair",
+      "k": true
+    },
+    {
+      "w": "bed",
+      "k": true
+    },
+    {
+      "w": "pen",
+      "k": true
+    },
+    {
+      "w": "paper",
+      "k": true
+    },
+    {
+      "w": "computer",
+      "k": true
+    },
+    {
+      "w": "phone",
+      "k": true
+    },
+    {
+      "w": "music",
+      "k": true
+    },
+    {
+      "w": "movie",
+      "k": true
+    },
+    {
+      "w": "game",
+      "k": true
+    },
+    {
+      "w": "clean",
+      "k": false
+    },
+    {
+      "w": "dirty",
+      "k": true
+    },
+    {
+      "w": "fast",
+      "k": true
+    },
+    {
+      "w": "slow",
+      "k": true
+    },
+    {
+      "w": "easy",
+      "k": true
+    }
+  ]
+}
