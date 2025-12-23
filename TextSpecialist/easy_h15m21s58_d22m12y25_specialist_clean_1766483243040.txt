@@ -1,0 +1,29 @@
+Analiz tamamlandı. JSON formatındaki meta veriler, teknik kodlar ve test parametreleri temizlendi. Kelimeler tematik gruplara ayrılarak edebi bir sözlük akışına kavuşturuldu.
+
+İşte temizlenmiş metin:
+
+### KELİME DAĞARCIĞI SEÇKİSİ
+
+**BÖLÜM 1: Renklerin Dünyası**
+Turuncu, pembe, mor, kahverengi ve gri.
+
+**BÖLÜM 2: İnsan Bedeni**
+Kol, parmak, burun, ağız ve diş. Diz, boyun, omuz, sırt ve kalp.
+
+**BÖLÜM 3: Mutfak ve Lezzetler**
+Tuz, pirinç, et ve meyve. Çorba, meyve suyu, peynir, bal ve tereyağı. Patates, soğan, domates, muz ve limon. Şekerleme ve kurabiye. 
+
+**BÖLÜM 4: Canlılar Alemi**
+Tavşan, ördek, ayı ve arı. Karınca, örümcek, kurbağa ve kaplumbağa. Kurt ve tilki.
+
+**BÖLÜM 5: Ev ve Yaşam Alanı**
+Oda, mutfak, banyo, bahçe ve kapı. Fincan, bardak, kase, tabak, kaşık ve çatal. Çalışma masası, raf, lamba, saat ve ayna. Sabun ve havlu.
+
+**BÖLÜM 6: Giyim ve Kuşam**
+Gömlek, şapka, ayakkabı ve çorap. Elbise, palto, etek, kemer ve eldiven.
+
+**BÖLÜM 7: Doğanın Sesi**
+Çimen, yaprak, kaya ve kum. Göl, tepe, çiftlik, tarla, orman, ateş ve toprak.
+
+**BÖLÜM 8: Eylemler ve Haller**
+İtmek, çekmek, taşımak, çizmek ve boyamak. Şarkı söylemek, yüzmek, yıkamak, temizlemek ve tamir etmek. Aramak, göstermek, anlatmak, duymak ve hissetmek. İstemek, ihtiyaç duymak ve başlamak. Güçlü, zayıf ve sessiz.
