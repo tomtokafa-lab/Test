@@ -1,0 +1,407 @@
+{
+  "testDate": "2025-12-24T06:21:24.393Z",
+  "mode": "nkb",
+  "difficulty": "normal",
+  "words": [
+    {
+      "w": "Abandon",
+      "k": false
+    },
+    {
+      "w": "Ability",
+      "k": true
+    },
+    {
+      "w": "Above",
+      "k": false
+    },
+    {
+      "w": "Abroad",
+      "k": false
+    },
+    {
+      "w": "Absence",
+      "k": false
+    },
+    {
+      "w": "Absorb",
+      "k": false
+    },
+    {
+      "w": "Abstract",
+      "k": false
+    },
+    {
+      "w": "Accent",
+      "k": false
+    },
+    {
+      "w": "Accept",
+      "k": true
+    },
+    {
+      "w": "Accident",
+      "k": false
+    },
+    {
+      "w": "Accompany",
+      "k": false
+    },
+    {
+      "w": "Account",
+      "k": true
+    },
+    {
+      "w": "Accuse",
+      "k": false
+    },
+    {
+      "w": "Acid",
+      "k": false
+    },
+    {
+      "w": "Action",
+      "k": true
+    },
+    {
+      "w": "Active",
+      "k": true
+    },
+    {
+      "w": "Actor",
+      "k": true
+    },
+    {
+      "w": "Actual",
+      "k": false
+    },
+    {
+      "w": "Ad",
+      "k": false
+    },
+    {
+      "w": "Add",
+      "k": true
+    },
+    {
+      "w": "Addition",
+      "k": false
+    },
+    {
+      "w": "Address",
+      "k": true
+    },
+    {
+      "w": "Adequate",
+      "k": false
+    },
+    {
+      "w": "Administer",
+      "k": false
+    },
+    {
+      "w": "Admire",
+      "k": false
+    },
+    {
+      "w": "Admit",
+      "k": false
+    },
+    {
+      "w": "Adopt",
+      "k": false
+    },
+    {
+      "w": "Advertise",
+      "k": false
+    },
+    {
+      "w": "Advise",
+      "k": false
+    },
+    {
+      "w": "Affair",
+      "k": false
+    },
+    {
+      "w": "Affect",
+      "k": false
+    },
+    {
+      "w": "Afford",
+      "k": false
+    },
+    {
+      "w": "Afraid",
+      "k": false
+    },
+    {
+      "w": "Age",
+      "k": true
+    },
+    {
+      "w": "Agency",
+      "k": false
+    },
+    {
+      "w": "Agent",
+      "k": false
+    },
+    {
+      "w": "Aggressive",
+      "k": false
+    },
+    {
+      "w": "Agreement",
+      "k": false
+    },
+    {
+      "w": "Agriculture",
+      "k": false
+    },
+    {
+      "w": "Aid",
+      "k": false
+    },
+    {
+      "w": "Air",
+      "k": true
+    },
+    {
+      "w": "Aircraft",
+      "k": false
+    },
+    {
+      "w": "Airport",
+      "k": false
+    },
+    {
+      "w": "Alcohol",
+      "k": false
+    },
+    {
+      "w": "Alive",
+      "k": false
+    },
+    {
+      "w": "All",
+      "k": true
+    },
+    {
+      "w": "Alliance",
+      "k": true
+    },
+    {
+      "w": "Allocate",
+      "k": false
+    },
+    {
+      "w": "Almost",
+      "k": false
+    },
+    {
+      "w": "Alone",
+      "k": true
+    },
+    {
+      "w": "Along",
+      "k": false
+    },
+    {
+      "w": "Alphabet",
+      "k": false
+    },
+    {
+      "w": "Already",
+      "k": false
+    },
+    {
+      "w": "Also",
+      "k": true
+    },
+    {
+      "w": "Always",
+      "k": true
+    },
+    {
+      "w": "Amazing",
+      "k": true
+    },
+    {
+      "w": "Amuse",
+      "k": false
+    },
+    {
+      "w": "Anger",
+      "k": true
+    },
+    {
+      "w": "Angle",
+      "k": true
+    },
+    {
+      "w": "Animal",
+      "k": true
+    },
+    {
+      "w": "Anniversary",
+      "k": false
+    },
+    {
+      "w": "Announce",
+      "k": true
+    },
+    {
+      "w": "Annual",
+      "k": false
+    },
+    {
+      "w": "Another",
+      "k": false
+    },
+    {
+      "w": "Answer",
+      "k": false
+    },
+    {
+      "w": "Anxious",
+      "k": false
+    },
+    {
+      "w": "Any",
+      "k": false
+    },
+    {
+      "w": "Apart",
+      "k": false
+    },
+    {
+      "w": "Apartment",
+      "k": true
+    },
+    {
+      "w": "Apology",
+      "k": false
+    },
+    {
+      "w": "Apparent",
+      "k": false
+    },
+    {
+      "w": "Appeal",
+      "k": false
+    },
+    {
+      "w": "Appear",
+      "k": false
+    },
+    {
+      "w": "Appearance",
+      "k": false
+    },
+    {
+      "w": "Apple",
+      "k": true
+    },
+    {
+      "w": "Application",
+      "k": false
+    },
+    {
+      "w": "Appointment",
+      "k": false
+    },
+    {
+      "w": "Appreciate",
+      "k": false
+    },
+    {
+      "w": "Approach",
+      "k": false
+    },
+    {
+      "w": "Appropriate",
+      "k": false
+    },
+    {
+      "w": "Approval",
+      "k": false
+    },
+    {
+      "w": "Approximate",
+      "k": false
+    },
+    {
+      "w": "Argue",
+      "k": false
+    },
+    {
+      "w": "Argument",
+      "k": true
+    },
+    {
+      "w": "Arise",
+      "k": false
+    },
+    {
+      "w": "Arm",
+      "k": false
+    },
+    {
+      "w": "Army",
+      "k": true
+    },
+    {
+      "w": "Around",
+      "k": false
+    },
+    {
+      "w": "Arrange",
+      "k": false
+    },
+    {
+      "w": "Arrangement",
+      "k": false
+    },
+    {
+      "w": "Arrest",
+      "k": false
+    },
+    {
+      "w": "Arrival",
+      "k": false
+    },
+    {
+      "w": "Arrive",
+      "k": false
+    },
+    {
+      "w": "Art",
+      "k": true
+    },
+    {
+      "w": "Article",
+      "k": false
+    },
+    {
+      "w": "Artist",
+      "k": false
+    },
+    {
+      "w": "Ashamed",
+      "k": false
+    },
+    {
+      "w": "Aside",
+      "k": false
+    },
+    {
+      "w": "Ask",
+      "k": true
+    },
+    {
+      "w": "Aspect",
+      "k": false
+    }
+  ]
+}
