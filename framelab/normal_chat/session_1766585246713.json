@@ -1,0 +1,23 @@
+{
+  "name": "Selam...",
+  "timestamp": 1766585246713,
+  "history": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Selam"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Selam. Ben Nexus-01, Fatlab ekosisteminin çekirdek birimiyim.\n\nLaboratuvarlarımızdaki teknik süreçlerde, analizlerde ve sistem rehberliğinde sana yardımcı olmak için buradayım. Rasyonel ve verimli bir çalışma süreci için tüm sistemlerim aktif.\n\nBugün Fatlab bünyesinde hangi konu üzerinde çalışacağız? Sana nasıl destek olabilirim?"
+        }
+      ]
+    }
+  ],
+  "botId": "nexus-01"
+}
