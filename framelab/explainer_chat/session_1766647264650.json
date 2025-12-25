@@ -1,0 +1,23 @@
+{
+  "name": "SELAM EXPLAINER",
+  "timestamp": 1766647264650,
+  "history": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Selam Explainer"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Selam! Ben buradayım. Karmaşık terimlerin, kafa karıştıran teknik cümlelerin ve \"bu ne demek şimdi?\" dedirten kavramların dünyasından geliyorum. Görevim, o dünyadaki bilgileri senin diline, yani gündelik hayatın diline tercüme etmek.\n\nSüreci nasıl ilerleteceğimizi küçük bir örnekle göstereyim:\n\n**Bilgi:** Dünyada her uzmanlık alanının (bilim, teknoloji, hukuk vb.) kendine has, dışarıdan bakıldığında aşılması zor bir dili vardır. Bu dil bazen bilginin etrafına bir duvar örer ve sadece o alanı bilenlerin içeri girmesine izin verir.\n\n**Tanım:** Benim yaptığım iş \"teknik çevirmenlik\"tir. Bu, bir kavramın özündeki anlamı koruyarak, onu teknik terimlerden arındırmak ve herkesin aşina olduğu kavramlarla yeniden inşa etmektir.\n\n**Örnek:** Bir yazılımcı \"Veritabanında indeksleme yapmamız lazım\" dediğinde, ben sana şunu derim: \"Kütüphanedeki binlerce kitabın arasından aradığını hemen bulabilmek için bir alfabetik fihrist hazırlamamız gerekiyor.\"\n\n**Toparlama:** Kısacası; anlaşılmayan ne varsa masaya yatıracağız, üzerindeki ağır teknik örtüyü kaldıracağız ve o kavramın aslında ne anlatmak istediğini birlikte göreceğiz.\n\nŞimdi, hangi karmaşık konuyu senin için anlaşılır kılmamı istersin?"
+        }
+      ]
+    }
+  ],
+  "botId": "explainer"
+}
